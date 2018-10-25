@@ -1,0 +1,10 @@
+---
+title: 404
+layout: page
+---
+
+<h1>Warming !</h1>
+
+Sorry but I can't find myself ......
+
+Please wait for a moment
